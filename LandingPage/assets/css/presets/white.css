@@ -1,0 +1,17 @@
+/********white layout color********/
+
+body {
+  color:#666;
+  background-color:#fff
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -o-transition: 300ms;
+  transition: 300ms;
+  color:#666;
+}
+
+
